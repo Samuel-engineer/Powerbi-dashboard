@@ -8,6 +8,9 @@ Le tableau de bord permet de visualiser des informations telles que :
 - Les résultats des étudiants par matière.
 - La comparaison des performances entre les groupes démographiques.
 
+## **Aperçu**
+![Aperçu de l'application](assets/demo_screenshot.png)
+
 ## 🔍 Données utilisées
 
 Les données proviennent du **[dataset Kaggle - Students Performance](https://www.kaggle.com/datasets/muhammadroshaanriaz/students-performance-dataset-cleaned))**, un ensemble de données propres et bien formatées contenant les scores des étudiants dans 3 matières : **maths**, **reading** et **writing**. Voici les variables disponibles :
