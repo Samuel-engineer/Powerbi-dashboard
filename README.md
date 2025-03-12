@@ -9,7 +9,7 @@ Le tableau de bord permet de visualiser des informations telles que :
 - La comparaison des performances entre les groupes démographiques.
 
 ## **Aperçu**
-![Aperçu de l'application](assets/demo_screenshot.png)
+![Aperçu de l'application](images/capture-dashboard (2).png)
 
 ## 🔍 Données utilisées
 
